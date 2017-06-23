@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/mvn_multi_mod_prj_hier.iml" filepath="$PROJECT_DIR$/mvn_multi_mod_prj_hier.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvn_multi_submod_one/mvn_multi_submod_one.iml" filepath="$PROJECT_DIR$/mvn_multi_submod_one/mvn_multi_submod_one.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mvn_multi_submod_two/mvn-multi-submod-two.iml" filepath="$PROJECT_DIR$/mvn_multi_submod_two/mvn-multi-submod-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvn_multi_submod_two/mvn_multi_submod_two.iml" filepath="$PROJECT_DIR$/mvn_multi_submod_two/mvn_multi_submod_two.iml" />
     </modules>
   </component>
 </project>
